@@ -1,1 +1,2 @@
 # Cartoonify_an-_Image
+This Cartoonify Tool is a Python-based project that transforms regular images into cartoon-like versions. It uses techniques like grayscale conversion, median blurring, adaptive thresholding for edge detection, and bilateral filtering for color smoothing. The tool features a Tkinter GUI for easy interaction, allowing users to upload images, apply the cartoon effect, view the transformation, and save the cartoonified output.
